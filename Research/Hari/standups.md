@@ -4,3 +4,14 @@
 3. Need to be added in the Belle Tire AD for access to the share point (Contains documents related to the current project)
 
 # Nov 25:
+1. Braze Subscriptions
+Belle Team members:
+- Timothy -> Data
+- Micah and Dustin -> Technology directors
+- Bell -> Marketting team
+
+YellowGown22@
+
+# Dec 2:
+800K user profiles are active and 1.3M inactive
+Educational and transactional 
