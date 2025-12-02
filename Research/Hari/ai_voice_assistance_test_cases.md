@@ -65,6 +65,6 @@
 ### Can you help me find the nearest store location ( ZipCode - 48084)
 ### Is the store open now?
 
-> For price, it answer that it can match the lowest price
-> Answered all of the questions and had a smooth call disconnect as well
-> But we have to be cautious when re-routing it to the sales person
+- For price, it answer that it can match the lowest price
+- Answered all of the questions and had a smooth call disconnect as well
+- But we have to be cautious when re-routing it to the sales person
