@@ -1,67 +1,59 @@
 # Test1:
 
 ## Flow 1:
-### Hi, I want to buy tires, what are the top deals that's going on right now at belle tire?
-### How can I buy?
-> [!IMPORTANT]
+### 1. Hi, I want to buy tires, what are the top deals that's going on right now at belle tire?
+### 2. How can I buy?
 > Answered three question related to the above but call ended abruptly
 
 ## Flow 2:
-### Does Belle Tire offer free air service?
-### Can I get the address of the nearest store, where I can avail this services (Zipcode - 48084)
-> [!IMPORTANT]
+### 1. Does Belle Tire offer free air service?
+### 2. Can I get the address of the nearest store, where I can avail this services (Zipcode - 48084)
 > Works fine if no noise around
 
 ## FLow 3:
-### What is Off-season storage?
-### Does Belle Tire offers one? if so how should I avail the same?
-> [!IMPORTANT]
+### 1. What is Off-season storage?
+### 2. Does Belle Tire offers one? if so how should I avail the same?
+> [!WARNING]
 > It says not available information in the knowledge base
 > Asked to connect with the real person, but call ended abruptly again
 
 ## Flow 4:
-### Hi, I wanted to buy tires for my vehicle. I live at the zip code 48084? What is the nearby store and whether is it open now?
-### Should I book appointment or can I walk in?
-> [!IMPORTANT]
+### 1. Hi, I wanted to buy tires for my vehicle. I live at the zip code 48084? What is the nearby store and whether is it open now?
+### 2. Should I book appointment or can I walk in?
 > Gives me the correct address and open hours
 > Provided with the correct appointment details as well
 
 ## Flow 5:
-### What are the working hours of the belle tire?
-> [!IMPORTANT]
+### 1. What are the working hours of the belle tire?
 > Asked me for the Zipcode and provided the working hours of the store
 
 ## Flow 6:
-### Do I actually need a winter tire at all?
-> [!IMPORTANT]
+### 1. Do I actually need a winter tire at all?
 > Explained clearly about the winter tires
 
 ## Flow 7:
-### Does belle tire has spanish speaking staff at stores?
-### Where is the belle tire headquarters? - Unavailable
-### How many store does belle currently have? 
-### Can I franchise the belle tire store?
-### How often should I check the wheel alignments? Can I do it in the belle tire store?
-> [!IMPORTANT]
+### 1. Does belle tire has spanish speaking staff at stores?
+### 2. Where is the belle tire headquarters? - Unavailable
+### 3. How many store does belle currently have? 
+### 4. Can I franchise the belle tire store?
+### 5. How often should I check the wheel alignments? Can I do it in the belle tire store?
 > Unable to find the headquarters details from the knowledge base, answered the rest
 
 ## Flow 8:
-### I bought a tire and I need to replace that now, how should I do that?
-### Do I have the warranty for the tires that I purchased
+### 1. I bought a tire and I need to replace that now, how should I do that?
+### 2. Do I have the warranty for the tires that I purchased
 > [!WARNING]
 > Asked to connect with the sales person, but it hanged up the call
 
 ## Flow 9:
-### Does belle tire sells Wiper Blades?
-### Does belle tire have the glass technician? If so what they actually do?
-> [!IMPORTANT]
+### 1. Does belle tire sells Wiper Blades?
+### 2. Does belle tire have the glass technician? If so what they actually do?
 > Said unable to find the information about the Wiper Blades
 > Answer about the glass technicians
 
 ## Flow 10:
-### What is auto maintenance? 
-### Can I do it with Belle Tire? 
-> [!IMPORTANT]
+### 1. What is auto maintenance? 
+### 2. Can I do it with Belle Tire? 
 > Aksed for the zip code and asked to book appointment, call got disconnected
 
 
