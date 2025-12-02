@@ -59,11 +59,11 @@
 
 
 # Final flow for the presentation:
-### Hi, I'm here to buy the Goodyear tires, do you have any offers?
-### What is the price?
-### How can I purchase it?
-### Can you help me find the nearest store location ( ZipCode - 48084)
-### Is the store open now?
+### 1. Hi, I'm here to buy the Goodyear tires, do you have any offers?
+### 2. What is the price?
+### 3. How can I purchase it?
+### 4. Can you help me find the nearest store location ( ZipCode - 48084)
+### 5. Is the store open now?
 
 - For price, it answer that it can match the lowest price
 - Answered all of the questions and had a smooth call disconnect as well
