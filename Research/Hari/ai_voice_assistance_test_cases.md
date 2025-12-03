@@ -59,9 +59,8 @@
 
 
 # Final flow for the presentation:
-### 1. Hi, I'm here to buy the Goodyear tires, do you have any offers?
-### 2. What is the price?
-### 3. How can I purchase it?
+### 1. Hi, I'm here to buy the Goodyear tires, do you guys have one?
+### 2. How can I purchase it?
 ### 4. Can you help me find the nearest store location ( ZipCode - 48084)
 ### 5. Is the store open now?
 
