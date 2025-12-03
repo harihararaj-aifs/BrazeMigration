@@ -63,7 +63,7 @@
 ### 2. How can I purchase it?
 ### 3. Can you help me find the nearest store location ( ZipCode - 48084)
 ### 4. Is the store open now?
-### 5. Can you connect me with the sales person?
+### 5. Can you connect me to the sales person?
 
 - For price, it answer that it can match the lowest price
 - Answered all of the questions and had a smooth call disconnect as well
