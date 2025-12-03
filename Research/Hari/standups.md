@@ -10,7 +10,6 @@ Belle Team members:
 - Micah and Dustin -> Technology directors
 - Bell -> Marketting team
 
-
 # Dec 2:
-800K user profiles are active and 1.3M inactive
+800K user profiles are active and 2.3M inactive
 Educational and transactional 
